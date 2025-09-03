@@ -11,13 +11,3 @@ data "azurerm_subnet" "subnetdata" {
 }
 
 
-
-
-# This data block retrieves information from the specified resource.
-# Use this data source to reference existing resources and their attributes
-# within your Terraform configuration, enabling dynamic and reusable infrastructure.
-# Replace the arguments with appropriate values for your environment.
-# This data block retrieves information from the specified resource.
-# Use this data source to reference existing resources and their attributes
-# within your Terraform configuration, enabling dynamic and reusable infrastructure.
-# Replace the arguments with appropriate values for your environment.
