@@ -6,6 +6,12 @@ resource "azurerm_resource_group" "rg" {
 }
 
 
+
+## as per cr new rg created on ci
+resource "azurerm_resource_group" "rg" {
+  name     = "nayak-rg"
+  location = "west us"
+}
 #as per cr new rg createed
 resource "azurerm_resource_group" "rg" {
   name     = "rg-vivek425"
